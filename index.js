@@ -5,5 +5,5 @@ var inNode = require('./bubbleInNode');
 inNode.timeSort();
 
 console.log('Sorting in C++');
-var inC = require('./bubbleInC');
+var inC = require('./bubbleInC.js');
 inC.timeSort();

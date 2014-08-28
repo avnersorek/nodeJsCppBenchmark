@@ -1,9 +1,9 @@
 int main()
 {
-
+	return 0;
 }
 
-void BubbleSort()
+int * BubbleSort()
 {
 	int array [12] = { 3,4,1,3,5,1,92,2,4124,424,52,12 };	
 	int arrLen = (sizeof(array) / sizeof(*array));

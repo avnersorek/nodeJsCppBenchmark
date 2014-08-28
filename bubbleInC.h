@@ -1,1 +1,1 @@
-void BubbleSort();
+int * BubbleSort();
